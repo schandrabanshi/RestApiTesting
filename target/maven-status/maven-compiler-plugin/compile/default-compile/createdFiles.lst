@@ -1,0 +1,8 @@
+utilities\Utils.class
+utilities\ExtentManager.class
+utilities\Resources.class
+utilities\Listeners.class
+utilities\ReadingPropertiesFile.class
+utilities\RestClientMethods.class
+testcases\Users.class
+base\Base.class
